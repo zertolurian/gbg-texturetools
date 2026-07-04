@@ -3,7 +3,8 @@
 A collection of various tools which can be used to import images into Textures into the 2021 Nintendo Switch game **Game Builder Garage** (a.k.a. **GBG** in English, a.k.a. **はじプロ** in Japan)!
 
 🎥 **[Introduction/Tutorial by VideoDojo (slightly outdated)](https://youtu.be/PTDiTS-Exjk?si=DSy7ZaHgRSA1d4rG)**  
-This video by VideoDojo explains how the original tools (**GBG Texture Builder** by Scrubz and **AGTD** by Borri) can be used. Since then, new and improved tools have been created, but the general gist is still mostly the same! *(These original tools can still be found under the `legacy/` folder within this repository.)*
+This video by VideoDojo explains how the original tools (**GBG Texture Builder** by Scrubz and **AGTD** by Borri) can be used. Since then, new and improved tools have been created, but the general gist is still mostly the same!  
+*(These original tools can still be found under the `legacy/` folder within this repository.)*
 
 The current latest tools are the **GBG Texture Converter** by YOSSYくん, and **AGTD2** by Zert.  
 
@@ -18,7 +19,7 @@ The current latest tools are the **GBG Texture Converter** by YOSSYくん, and *
 ## 📂 Repository Structure
 
 * **`AGTD2.ino`** — The script to paste your AGTD2 CSV into and then upload to your Arduino board to import into GBG.
-* **`GBG_Texture_Builder_v1.3.html`** — A quick edit of v1.2 to output the AGTD2 format by Zert. Please use YOSSYくん's tool instead.
+* **`GBG_Texture_Builder_AGTD2.html`** — A quick edit of v1.2 to output the AGTD2 format by Zert. Please use YOSSYくん's tool instead.
 * **`Import_Textures_from_GBG_v1.1.htm`** — The original Screenshot->Texture tool by Scrubz.
 * **`legacy/`** — Legacy tools folder
 * **`├── AGTD_v0.7-beta.ino`** — The original AGTD script by Borri.
@@ -99,7 +100,7 @@ Follow these steps to import Textures from your browser into GBG itself!:
 
 ## 📜 License & Support
 
-**AI Disclosure:** AGTD2 and Texture Builder v1.3 were partially built using AI.
+**AI Disclosure:** AGTD2 and Texture_Builder_AGTD2 were partially built using AI.
 
 This project is open-source and free to use, modify, and share within the Game Builder Garage community. If you run into issues or have ideas for new features, feel free to DM @zertolurian on Discord!
 
