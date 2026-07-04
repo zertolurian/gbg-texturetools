@@ -2,7 +2,7 @@
 
 A collection of various tools which can be used to import images into Textures into the 2021 Nintendo Switch game **Game Builder Garage** (a.k.a. **GBG** in English, a.k.a. **はじプロ** in Japan)!
 
-🎥 **[Introduction/Tutorial by VideoDojo (slightly outdated)](https://youtu.be/PTDiTS-Exjk?si=DSy7ZaHgRSA1d4rG)**
+🎥 **[Introduction/Tutorial by VideoDojo (slightly outdated)](https://youtu.be/PTDiTS-Exjk?si=DSy7ZaHgRSA1d4rG)**  
 This video by VideoDojo explains how the original tools (**GBG Texture Builder** by Scrubz and **AGTD** by Borri) can be used. Since then, new and improved tools have been created, but the general gist is still mostly the same! *(These original tools can still be found under the `legacy/` folder within this repository.)*
 
 The current latest tools are the **GBG Texture Converter** by YOSSYくん, and **AGTD2** by Zert.  
