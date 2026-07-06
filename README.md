@@ -8,22 +8,22 @@ This video by VideoDojo explains how the original tools (**GBG Texture Builder**
 
 The current latest tools are the **GBG Texture Converter** by YOSSYくん, and **AGTD2** by Zert.  
 
-**GBG Texture Converter** has expanded image converting capabilities, and is the recommended tool to output the latest AGTD2 format.  
+**GBG Texture Converter** has expanded image converting capabilities, and is the recommended tool to output the latest AGTD2 format. Alternatively, **GTB_AGTD2** is a quick edit of the original GBG Texture Builder which outputs the AGTD2 format, available within this repository.   
 
-**AGTD2** is an improved verion of AGTD with faster drawing speed, a more efficient texture encoding algorithm to allow more textures at a time, as well as the capability to edit the other settings of each Texture Nodon. The old CSV format and SD Card functionality are currently not supported. AGTD2 is incompatible with the original GBG Texture Builder and the original AGTD format. The latest version is available within this repository.
+**AGTD2** (Automatic GBG Texture Drawing 2) is an improved verion of AGTD with faster drawing speed, a more efficient texture encoding algorithm to allow more textures at a time, as well as the capability to edit the other settings of each Texture Nodon. The old CSV format and SD Card functionality are currently not supported. AGTD2 is incompatible with the original GBG Texture Builder and the original AGTD format. The latest version is available within this repository.
 
-🚀 **[Launch YOSSYくん's GBG Texture Converter](https://yossy-kun.github.io/GBG-Texture-Converter/)** [(GitHub repository)](https://github.com/yossy-kun/GBG-Texture-Converter)
+🚀 **[Launch YOSSYくん's GBG Texture Converter](https://yossy-kun.github.io/GBG-Texture-Converter/)** - [(GitHub repository)](https://github.com/yossy-kun/GBG-Texture-Converter)
 
 ---
 
 ## 📂 Repository Structure
 
-* **`AGTD2.ino`** — The script to paste your AGTD2 CSV into and then upload to your Arduino board to import into GBG.
-* **`GBG_Texture_Builder_AGTD2.html`** — A quick edit of v1.2 to output the AGTD2 format by Zert. Please use YOSSYくん's tool instead.
+* **`AGTD2.ino`** — The script to paste your AGTD2 CSV into and then upload to your Arduino board to import into GBG by Zert.
+* **`GTB_AGTD2.html`** — A quick edit of v1.2 to output the AGTD2 format by Zert. Recommended to use YOSSYくん's tool instead.
 * **`Import_Textures_from_GBG_v1.1.htm`** — The original Screenshot->Texture tool by Scrubz.
 * **`legacy/`** — Legacy tools folder
 * **`├── AGTD_v0.7-beta.ino`** — The original AGTD script by Borri.
-* **`├── GBG_Texture_Builder_v1.2.htm`** — The original Texture->CSV by Scrubz.
+* **`├── GBG_Texture_Builder_v1.2.htm`** — The original Texture->CSV tool by Scrubz.
 * **`└── GBG_Texture_Builder_v1.2_CLIPBOARD.html`** — Added clipboard functionality by Voxy.
 
 ---
