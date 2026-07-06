@@ -1,4 +1,4 @@
-/* -----------------------------------------------------------------------------------------   
+/* -----------------------------------------------------------------------------------------  
 * AGTDASAVDCWTSCOVrVam also known more succinctly as AGTD: Automatic GBG Texture Drawing
 * v0.7-beta
 * Made for Arduino Leonardo by Borri
